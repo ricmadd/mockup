@@ -12,3 +12,6 @@ Project Name: List of Lists - Project Management Tool
 4- Within "Task Categories" user must be able to create tasks.
 5- User should be able to create several levels of subtasks.
 6- Tasks/subtasks must have properties ie: a responsible owner, a price/cost, a percent complete and or status, a resource, a deadline, prerequisites, and  other dependent tasks.  
+
+DOMAIN MODELING LINK:
+https://docs.google.com/spreadsheet/ccc?key=0AiYdoFBZxYxgdFRFU3JtNzU3a2JTcWY5RnFicWhHUkE&amp;usp=sharing
