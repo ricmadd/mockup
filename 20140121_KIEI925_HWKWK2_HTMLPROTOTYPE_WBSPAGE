@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>WBS Creator for PMs</title>
+
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//http:netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js">
+</script>
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project Portal</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="file:///C:/Users/ricmad/Desktop/kiei925/Code/20140121_KIEI925_HWKWK2_HTMLPROTOTYPE.html">Home</a></li>
+            <li><a href="#about">About [Blank Link]</a></li>
+            <li><a href="#contact">Contact[Blank Link]</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+
+    <div class="container">
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-9">
+          <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+          </p>
+          <div class="jumbotron">
+            <h1> Lacasa Project > WBS </h1>
+
+          </div>
+
+ <p>
+        <!-- <button type="button" class="btn btn-lg btn-default">Default</button> -->
+        <button type="button" class="btn btn-lg btn-primary">Activity to Complete - 1</button>
+        <!-- <button type="button" class="btn btn-lg btn-success">Success</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-info">Info</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-warning">Warning</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-danger">Danger</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-link">Link</button> -->
+      </p>
+
+<table class="table table-bordered">
+  <tr>
+    <th> Level 1  </th>
+    <th> Level 2 </th>
+    <th> Level 3 </th>
+    <th> Level 4 </th>
+    <th> Level 5 </th>
+    <th> Level 6 </th>
+    <th> Level 7 </th>
+  </tr>
+  <tr>
+    <td>1 Activity to complete </td>
+    <td>2 Element that will be worked on (?)</td>
+    <td>3 Tasks Required to complete "6" </td>
+    <td>4 TASK CHARACTERISTIC: i.e.:SCOPE</td>
+    <td>5 TASK CHARACTERISTIC: i.e.:COST</td>
+    <td>6 TASK CHARACTERISTIC: i.e.:STATUS</td>
+    <td>7 TASK CHARACTERISTIC: i.e.: PREREQUISITESS</td>
+  </tr>
+</table>
+
+ <p>
+        <!-- <button type="button" class="btn btn-lg btn-default">Default</button> -->
+        <button type="button" class="btn btn-lg btn-primary">Activity to Complete - 2 </button>
+        <!-- <button type="button" class="btn btn-lg btn-success">Success</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-info">Info</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-warning">Warning</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-danger">Danger</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-link">Link</button> -->
+      </p>
+
+<table class="table table-bordered">
+  <tr>
+    <th> Level 1  </th>
+    <th> Level 2 </th>
+    <th> Level 3 </th>
+    <th> Level 4 </th>
+    <th> Level 5 </th>
+    <th> Level 6 </th>
+    <th> Level 7 </th>
+  </tr>
+  <tr>
+    <td>1 Activity to complete </td>
+    <td>2 Element that will be worked on (?)</td>
+    <td>3 Tasks Required to complete "6" </td>
+    <td>4 TASK CHARACTERISTIC: i.e.:SCOPE</td>
+    <td>5 TASK CHARACTERISTIC: i.e.:COST</td>
+    <td>6 TASK CHARACTERISTIC: i.e.:STATUS</td>
+    <td>7 TASK CHARACTERISTIC: i.e.: PREREQUISITESS</td>
+  </tr>
+</table>
+
+ <p>
+        <!-- <button type="button" class="btn btn-lg btn-default">Default</button> -->
+        <button type="button" class="btn btn-lg btn-primary">Activity to Complete - 3
+         </button>
+        <!-- <button type="button" class="btn btn-lg btn-success">Success</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-info">Info</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-warning">Warning</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-danger">Danger</button> -->
+        <!-- <button type="button" class="btn btn-lg btn-link">Link</button> -->
+      </p>
+
+<table class="table table-bordered">
+  <tr>
+    <th> Level 1  </th>
+    <th> Level 2 </th>
+    <th> Level 3 </th>
+    <th> Level 4 </th>
+    <th> Level 5 </th>
+    <th> Level 6 </th>
+    <th> Level 7 </th>
+  </tr>
+  <tr>
+    <td>1 Activity to complete </td>
+    <td>2 Element that will be worked on (?)</td>
+    <td>3 Tasks Required to complete "6" </td>
+    <td>4 TASK CHARACTERISTIC: i.e.:SCOPE</td>
+    <td>5 TASK CHARACTERISTIC: i.e.:COST</td>
+    <td>6 TASK CHARACTERISTIC: i.e.:STATUS</td>
+    <td>7 TASK CHARACTERISTIC: i.e.: PREREQUISITESS</td>
+  </tr>
+</table>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2013</p>
+      </footer>
+
+    </div><!--/.container-->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="offcanvas.js"></script>
+  </body>
+</html>
